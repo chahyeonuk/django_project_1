@@ -1,0 +1,14 @@
+body {
+    background: url('/static/single_pages/images/amsterdam_sky_1.jpg') no-repeat center center fixed;
+    background-size : cover;
+    -o-background-size: cover;
+
+}
+
+section {
+    margin-bottom: 150px;
+}
+
+.card {
+    background-color: rgba(255, 255, 255, 0.6);
+}
